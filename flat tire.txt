@@ -1,0 +1,35 @@
+ Park your car 
+ get out 
+ detect flat tire by the algorithm (2).
+ chek if tire(i) i = 1 -4  - flat return flattire=true else i++ 
+ until flattire = true or i = 4
+ return i 
+go to trunk 
+is it opend ? 
+if  
+ open trunk
+is there a jack? 
+if true - take jack else find jack   
+ use jack to take car up &(&)&7
+look at the trunk is there a adjustuble wrench 
+ir true - take wrench else fing wrench              
+ use adjustable wrench to remove tire algotiyhm (3)
+ for ( int i = 1 , i =4or5 , i++){
+ unblok nut 
+}
+collect the nuts 
+take off tire 
+repear it algorythm (4)
+ERROR NOT ENOUGHT DATA 
+NOT AUTOMECHANICAL 
+
+place it back 
+algotythm (5)
+use adjustable wrench 
+ for ( int i = 1 , i =4or5 , i++){
+ blok nut 
+}
+take off jack 
+close trunk 
+
+ 
