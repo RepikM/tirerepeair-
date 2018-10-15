@@ -1,5 +1,11 @@
  Park your car 
- get out 
+turn off engine
+handbreak
+unfasten your seatbelt 
+shift to p
+else shift to bla bla bla 
+ 
+get out 
  detect flat tire by the algorithm (2).
  chek if tire(i) i = 1 -4  - flat return flattire=true else i++ 
  until flattire = true or i = 4
@@ -30,6 +36,7 @@ use adjustable wrench
  blok nut 
 }
 take off jack 
+badfbfadb
 close trunk 
 
  sdaD
